@@ -1,5 +1,6 @@
 *   February 2014: [The Case for Municipal Broadband in Cambridge](https://www.cctvcambridge.org/CambridgeMunicipalBroadband)
-*   July 2015: [Connecting Cambridge: Why doesn’t Cambridge, Mass.have a next-generation network?](http://www.bbcmag.com/2015mags/July/BBC_Jul15_ConnectingCambridge.pdf) (pdf)*   December 2015:[Cambridge Explores Its Broadband Options](https://medium.com/@stannenb/cambridge-explores-its-broadband-options-d6cd5ca46168#.3v4v3jqag)
+*   July 2015: [Connecting Cambridge: Why doesn’t Cambridge, Mass.have a next-generation network?](http://www.bbcmag.com/2015mags/July/BBC_Jul15_ConnectingCambridge.pdf) (pdf)
+*   December 2015:[Cambridge Explores Its Broadband Options](https://medium.com/@stannenb/cambridge-explores-its-broadband-options-d6cd5ca46168#.3v4v3jqag)
 *   February 2016:[Three Options for Cambridge Broadband](https://medium.com/@stannenb/three-options-for-cambridge-broadband-5b94df739c39#.vx42ijbp8)
 *   April 2016: [Verizon FIOS Comes To Boston: The Missing Manual](https://medium.com/binj-reports/verizon-fios-comes-to-boston-the-missing-manual-397c13f7d812#.6vmqq8ctn)*   May 2016: [The Path to Municipal Broadband in Cambridge: Where We Are](https://medium.com/@stannenb/the-path-to-municipal-broadband-in-cambridge-eef080397d62#.dv8h5qhrn)
 *   May 2016:[The Path to Municipal Broadband in Cambridge: A Municipal Broadband Feasibility Study](https://medium.com/@stannenb/the-path-to-municipal-broadband-in-cambridge-3491d80edeee#.iwk2vl392)
