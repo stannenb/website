@@ -1,3 +1,4 @@
+<a rel="me" href="https://octodon.social/@stannenb">Mastodon</a>
 *   February 2014: [The Case for Municipal Broadband in Cambridge](https://www.cctvcambridge.org/CambridgeMunicipalBroadband)
 *   July 2015: [Connecting Cambridge: Why doesn’t Cambridge, Mass.have a next-generation network?](http://www.bbcmag.com/2015mags/July/BBC_Jul15_ConnectingCambridge.pdf) (pdf)
 *   December 2015:[Cambridge Explores Its Broadband Options](https://medium.com/@stannenb/cambridge-explores-its-broadband-options-d6cd5ca46168#.3v4v3jqag)
